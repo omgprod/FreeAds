@@ -1,0 +1,16 @@
+POST /users/update?id&12 HTTP/1.1
+Accept:                    text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding:           gzip, deflate, br
+Accept-Language:           fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
+Cache-Control:             max-age=0
+Connection:                keep-alive
+Content-Length:            8712
+Content-Type:              multipart/form-data; boundary=----WebKitFormBoundarydQeNYI3xMW4igYyJ
+Cookie:                    XSRF-TOKEN=eyJpdiI6InJpNXdMUnpjdytLM2Nwemk0dGd1ZGc9PSIsInZhbHVlIjoicFwvZXZsVGlHSmxMNllKUitEeFp2S3NUWmFjclFKY1lUSTN6aHRVSkVOaXJpY0dKQVwvcUxkS0NudW1jUW9xSXFJIiwibWFjIjoiYjYzMzZlYzgzMzQ1OGQwOGMxN2RjZTViYTFmMGE2NjA3Yjg3ZjRiYzZkMzM4YTY1NDkyMmNlMDE2OTMwMmMyMiJ9; freads_session=eyJpdiI6IlVzamY0NVwvcjl1Y3pkd2dFVzRSRlRBPT0iLCJ2YWx1ZSI6IlpiQTY2MEhiRXJDdjZrNDRYZENneFl1TmdyYjA2YWtiancrMzg3V1Z5OUM1ZmtqYmZMdEhwOHRlTVlVNmpmNGkiLCJtYWMiOiJiY2NiN2EyZGIxNDNjZmFhM2I5NTk1MzNkNDRmOGFkYzYxNTRiYmRiYjNjNWYyMzI3MjI0MDE1MDQwN2M0NjM3In0%3D
+Host:                      127.0.0.1:8000
+Origin:                    http://127.0.0.1:8000
+Referer:                   http://127.0.0.1:8000/users/update
+Upgrade-Insecure-Requests: 1
+User-Agent:                Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+Cookie: XSRF-TOKEN=JAwOC7wELml8Srore8h2ZUDS4stavCwQGSIUIeOT; freads_session=h4F2pHrC5MsuX5oFwLIooV3M5145UwyQkd4Li6s3
+
